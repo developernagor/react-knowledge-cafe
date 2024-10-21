@@ -1,0 +1,103 @@
+    [
+        {
+        "blog_id": "1",
+        "blog_title": "Exploring the Future of AI",
+        "blog_cover_img": "https://i.ibb.co.com/7pKNrWN/digital-laptop-working-global-business-concept.jpg",
+        "blog_description": "A deep dive into the possibilities of artificial intelligence and how it could reshape our world.",
+        "author_name": "John Doe",
+        "author_img": "https://i.ibb.co.com/b707L5Z/young-teacher-trying-write-notes-class.jpg",
+        "reading_time": "7 min",
+        "hashtags": ["#AI", "#Technology", "#Future"]
+        },
+        {
+        "blog_id": "2",
+        "blog_title": "10 Tips for Healthy Living",
+        "blog_cover_img": "https://i.ibb.co.com/sp4gPCG/top-view-laptop-glasses-with-copy-space.jpg",
+        "blog_description": "Simple and effective tips for maintaining a healthy lifestyle in the modern world.",
+        "author_name": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/CWjQxRX/portrait-young-bearded-man-reading-book.jpg",
+        "reading_time": "5 min",
+        "hashtags": ["#Health", "#Wellness", "#Fitness"]
+        },
+        {
+        "blog_id": "3",
+        "blog_title": "The Rise of Electric Cars",
+        "blog_cover_img": "https://i.ibb.co.com/JRh4wkz/top-view-desk-concept-with-coffee.jpg",
+        "blog_description": "How electric cars are revolutionizing the automotive industry and helping the environment.",
+        "author_name": "Robert Brown",
+        "author_img": "https://i.ibb.co.com/TwmTtTv/people-education-job-freelance-concept-stylish-young-female-freelancer-student-girl-sitting-table-ca.jpg",
+        "reading_time": "8 min",
+        "hashtags": ["#ElectricCars", "#Sustainability", "#Automotive"]
+        },
+        {
+        "blog_id": "4",
+        "blog_title": "Mastering Photography: A Beginner's Guide",
+        "blog_cover_img": "https://i.ibb.co.com/9cx71GS/digital-graphic-tablet-camera-cellphone-with-stationery-yellow-background.jpg",
+        "blog_description": "An essential guide for those starting out in the world of photography.",
+        "author_name": "Emily Johnson",
+        "author_img": "https://i.ibb.co.com/K7DGtWb/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+        "reading_time": "6 min",
+        "hashtags": ["#Photography", "#Guide", "#Beginner"]
+        },
+        {
+        "blog_id": "5",
+        "blog_title": "The Best Travel Destinations for 2024",
+        "blog_cover_img": "https://i.ibb.co.com/DVQFTRb/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "blog_description": "A curated list of the top travel destinations to explore in 2024.",
+        "author_name": "Michael Lee",
+        "author_img": "https://i.ibb.co.com/bm9rJnw/front-view-serious-office-worker-sitting-table.jpg",
+        "reading_time": "9 min",
+        "hashtags": ["#Travel", "#Adventure", "#2024"]
+        },
+        {
+        "blog_id": "6",
+        "blog_title": "Understanding Blockchain Technology",
+        "blog_cover_img": "https://i.ibb.co.com/Khbfg01/top-view-desk-concept-with-coffee-1.jpg",
+        "blog_description": "A simple breakdown of how blockchain works and its potential impact on various industries.",
+        "author_name": "Sarah Green",
+        "author_img": "https://i.ibb.co.com/GQ9jzz8/mid-shot-woman-table-reading-book.jpg",
+        "reading_time": "10 min",
+        "hashtags": ["#Blockchain", "#Tech", "#Innovation"]
+        },
+        {
+        "blog_id": "7",
+        "blog_title": "Cooking Made Easy: Quick Recipes for Busy Days",
+        "blog_cover_img": "https://i.ibb.co.com/5kcrRW9/high-angle-desktop-with-laptop-copy-space.jpg",
+        "blog_description": "Delicious and quick-to-make recipes that are perfect for those with a busy schedule.",
+        "author_name": "David White",
+        "author_img": "https://i.ibb.co.com/ngMfGRF/dreaming-woman-with-book.jpg",
+        "reading_time": "4 min",
+        "hashtags": ["#Cooking", "#Recipes", "#Food"]
+        },
+        {
+        "blog_id": "8",
+        "blog_title": "Financial Planning for Beginners",
+        "blog_cover_img": "https://i.ibb.co.com/MN9Gtc6/flat-lay-desktop-with-notebook-pizza.jpg",
+        "blog_description": "A guide to help you start planning your financial future with confidence.",
+        "author_name": "Lisa Cooper",
+        "author_img": "https://i.ibb.co.com/5vcpCP6/stylish-woman-reading-book.jpg",
+        "reading_time": "12 min",
+        "hashtags": ["#Finance", "#Planning", "#MoneyManagement"]
+        },
+        {
+        "blog_id": "9",
+        "blog_title": "How to Stay Productive While Working from Home",
+        "blog_cover_img": "https://i.ibb.co.com/MN9Gtc6/flat-lay-desktop-with-notebook-pizza.jpg",
+        "blog_description": "Tips and tricks to stay focused and productive when working remotely.",
+        "author_name": "Tom Harris",
+        "author_img": "https://i.ibb.co.com/QNwXGqg/medium-shot-woman-with-book-coffee-shop.jpg",
+        "reading_time": "5 min",
+        "hashtags": ["#Productivity", "#WFH", "#RemoteWork"]
+        },
+        {
+        "blog_id": "10",
+        "blog_title": "The Power of Mindfulness in Daily Life",
+        "blog_cover_img": "https://i.ibb.co.com/DVQFTRb/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "blog_description": "How practicing mindfulness can improve your mental and emotional well-being.",
+        "author_name": "Sophia Williams",
+        "author_img": "https://i.ibb.co.com/BsqxhZ8/flirty-young-female-student-reading-book-table.jpg",
+        "reading_time": "7 min",
+        "hashtags": ["#Mindfulness", "#WellBeing", "#MentalHealth"]
+        }
+    ]
+    
